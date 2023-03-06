@@ -1,0 +1,17 @@
+{
+  "name": "pnpm-workspace",
+  "version": "1.0.0",
+  "description": "Testing out pnpm workspaces",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "contributors": [
+    "Myles O'Connor <myles@wagerwire.com>"
+  ],
+  "keywords": [
+    "pnpm",
+    "workspace"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
